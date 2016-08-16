@@ -2,18 +2,23 @@
 
 **Quickly run Framer.js prototypes within Electron.**
 
-[Electron](http://electron.atom.io/) is a framework that allows developers to build cross platform desktop apps with JavaScript, HTML, and CSS. Since Framer.js is ultimately just javascript, running it inside of Electron is a simple way run your desktop prototype in a native context (i.e. outside of Framer Studio, in a native desktop window).
+[Electron](http://electron.atom.io/) is a framework that allows developers to build cross platform desktop apps with JavaScript, HTML, and CSS. Since Framer.js is ultimately just javascript, running it inside of Electron is a simple way to preview your desktop prototype in a fully native context (i.e. outside of Framer Studio, in a native desktop window).
 
-## How to use
+## Install
+From your command line:
 ```bash
-# to install globally on your computer...
+# Install the cli globally on your computer
 npm i -g framer-electron-preview
+```
 
-# Open your Framer.js prototype in terminal...
+## To Use
+From your command line:
+```bash
+# Open your (existing) Framer.js prototype folder
 cd MyPrototype.framer
 
-# Now run your prototype inside of an Electron shell 
+# Run your prototype inside of an Electron shell 
 fep
 ```
 
-#### Questions? Hit me up on Twitter: <a href="https://twitter.com/jaredpalmer">jaredpalmer</a>
+##### Questions? Hit me up on Twitter: <a href="https://twitter.com/jaredpalmer">jaredpalmer</a>
