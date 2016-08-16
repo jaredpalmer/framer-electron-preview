@@ -7,14 +7,11 @@
 ## Getting Started
 From your command line:
 ```bash
-# 1. Install the cli globally on your computer
+# Install the cli globally on your computer
 npm i -g framer-electron-preview
 
-# 2. Open your (existing) Framer.js prototype folder
-cd MyPrototype.framer
-
-# 3. Run your prototype inside of an Electron shell 
-fep
+# Open your (existing) Framer.js prototype folder and run `fep`
+cd MyPrototype.framer && fep
 ```
 
 ##### Questions? Hit me up on Twitter: <a href="https://twitter.com/jaredpalmer">jaredpalmer</a>
