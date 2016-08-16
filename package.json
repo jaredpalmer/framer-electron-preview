@@ -1,6 +1,6 @@
 {
   "name": "framer-electron-preview",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Quickly run Framer prototypes within Electron.",
   "bin": {
     "fep": "cli.js"

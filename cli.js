@@ -9,7 +9,7 @@ console.log()
 console.log()
 console.log(chalk.cyan('Compiling...'))
 
-var child = spawn(electron, [path.join(__dirname, '../main.js')] , { stdio: 'inherit' })
+var child = spawn(electron, [path.join(__dirname, './main.js')] , { stdio: 'inherit' })
 
 child.on('close', function (code) {
   if (code !== 0) {
