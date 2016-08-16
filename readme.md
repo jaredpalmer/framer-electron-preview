@@ -1,4 +1,4 @@
-# framer-electron-preview (a.k.a 'fep')
+# framer-electron-preview
 
 **Quickly run Framer.js prototypes within Electron.**
 
