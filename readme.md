@@ -16,4 +16,4 @@ npm i -g framer-electron-preview
 cd MyPrototype.framer && fep
 ```
 
-##### Questions? Hit me up on Twitter: <a href="https://twitter.com/jaredpalmer">jaredpalmer</a>
+##### Questions? Hit me up on Twitter: <a href="https://twitter.com/jaredpalmer">@jaredpalmer</a>
